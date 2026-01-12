@@ -1,3 +1,41 @@
 body {
     margin: 0;
+    background-color: #1C1C1C;
 }
+
+div{
+    margin-top:200px;
+    text-align: center;
+    align-items: center;
+    
+}
+
+h1{
+  
+    color:white;
+    font-size: 70px;
+    
+    
+}
+
+
+h2{
+    color:#4ADF86;
+    font-size: 70px;
+    
+}
+
+button{
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+}
+
+h3{
+  
+    color:white;
+    font-size: 70px;
+    
+    
+}
+
